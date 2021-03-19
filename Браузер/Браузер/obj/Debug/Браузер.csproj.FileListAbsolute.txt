@@ -1,0 +1,11 @@
+C:\Users\Наиль\source\repos\Браузер\Браузер\bin\Debug\Браузер.exe.config
+C:\Users\Наиль\source\repos\Браузер\Браузер\bin\Debug\Браузер.exe
+C:\Users\Наиль\source\repos\Браузер\Браузер\bin\Debug\Браузер.pdb
+C:\Users\Наиль\source\repos\Браузер\Браузер\obj\Debug\Браузер.csprojAssemblyReference.cache
+C:\Users\Наиль\source\repos\Браузер\Браузер\obj\Debug\Браузер.Form1.resources
+C:\Users\Наиль\source\repos\Браузер\Браузер\obj\Debug\Браузер.Properties.Resources.resources
+C:\Users\Наиль\source\repos\Браузер\Браузер\obj\Debug\Браузер.csproj.GenerateResource.cache
+C:\Users\Наиль\source\repos\Браузер\Браузер\obj\Debug\Браузер.csproj.CoreCompileInputs.cache
+C:\Users\Наиль\source\repos\Браузер\Браузер\obj\Debug\Браузер.exe
+C:\Users\Наиль\source\repos\Браузер\Браузер\obj\Debug\Браузер.pdb
+C:\Users\Наиль\source\repos\Браузер\Браузер\obj\Debug\Браузер.Saved.resources
